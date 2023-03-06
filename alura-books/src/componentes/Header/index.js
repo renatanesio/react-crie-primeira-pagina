@@ -6,13 +6,11 @@ import IconesHeader from '../IconesHeader'
 function Header() {
     return (
         <header className='App-header'>
-            <Logo/>
-            <OpcoesHeader/>
-            <IconesHeader/>
+            <Logo />
+            <OpcoesHeader />
+            <IconesHeader />
         </header>
     )
 }
 
 export default Header;
-
-
